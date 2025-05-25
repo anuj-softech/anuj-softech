@@ -21,7 +21,7 @@
 ### **📱 Android Development**  
 - **Java (7+ years)**  
 - **ExoPlayer** (Live TV, M3U, MP4 Streaming)  
-- **Android TV Development**  
+- **Android TV Apps Development**  
 - **Firebase Integration** (Auth, Realtime DB, Firestore, ML kit)  
 - **Android Studio & Sketchware**  
 
