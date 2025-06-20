@@ -9,11 +9,11 @@
 
 ## 🚀 About Me  
 🔹 **7+ years of experience in Android development** (Android TV, ExoPlayer, Netflix-like streaming, M3U & MP4 playback).  
-🔹 **6+ years in web development** (HTML, CSS, JS, static websites).  
+🔹 **3+ years in web development**.  
 🔹 **1+ year with C, C++** for system-level programming.  
-🔹 **Worked on** AI/ML projects using **TensorFlow, OpenCV**.  
-🔹 **UI/UX expert** with experience in **Figma**.  
-🔹 **Game development experience** in **Godot Engine**.  
+🔹 **Made AI/ML** projects using **TensorFlow, OpenCV**.  
+🔹 **UI/UX designing** experience in **Figma**.  
+🔹 **Game development experience** in **Godot Engine**.
 
 ---
 
@@ -29,7 +29,7 @@
 - **HTML, CSS, JavaScript (6+ years)**  
 - **Static Web Apps & Hosting**  
 - **Electron.js (Currently Learning)**
-- **PHP and SQL**
+- **Svelte (Currently Learning)**
 - **WEB Scrapping techniques**
 
 ### **🖥️ Software & Tools**  
