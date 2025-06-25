@@ -23,7 +23,7 @@
 - **Firebase Integration** (Auth, Realtime DB, Firestore, ML kit)
 - **Android Studio & Sketchware**
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,opencv&perline=40)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,opencv&perline=40)
 
 
 ### **🌐 Web Development**
