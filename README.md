@@ -5,13 +5,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-DataBase--Auth-ffc300?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-Worker-f4801f?style=for-the-badge&logo=cloudflare)  
 
 ## 🚀 About Me
-- **7+ years of experience in Android development**\
-- **3+ years experience in web development**.\
-- **1+ year learning C, C++** for Data Structures and Algorithms.\
-- **Worked on multiple Android TV app projects\
-(Android TV, ExoPlayer, Netflix-like streaming, M3U & MP4 playback).**\
-- **Made AI/ML** projects using **TensorFlow, OpenCV**.\
-- **UI/UX designing** experience in **Figma**.\
+- **7+ years of experience in Android development**
+- **3+ years experience in web development**
+- **1+ year learning C, C++** for Data Structures and Algorithms
+- **Worked on multiple Android TV app projects
+(Android TV, ExoPlayer, Netflix-like streaming, M3U & MP4 playback).**
+- **Made AI/ML** projects using **TensorFlow, OpenCV**
+- **UI/UX designing** experience in **Figma**
 - **Game development experience** in **Godot Engine**.
 ---
 
@@ -53,11 +53,11 @@
 ---
 
 ## 🛠️ Projects & Experience
-- Developed **professional Android apps** with TV and mobile support.  
-- Created **Netflix-like streaming apps** with **ExoPlayer** and **live TV** integration.  
-- Worked on **DRM** based media player on Android TV.\
-- Built **web apps** with **Firebase and Cloudflare worker integration.**\
-- Designed **responsive UI/UX** in **Figma** for mobile and web.  
+- Developed **professional Android apps** with TV and mobile support.
+- Created **Netflix-like streaming apps** with **ExoPlayer** and **live TV** integration.
+- Worked on **DRM** based media player on Android TV
+- Built **web apps** with **Firebase and Cloudflare worker integration**
+- Designed **responsive UI/UX** in **Figma** for mobile and web.
 - Worked with **image processing** using OpenCV.
 ---
 
