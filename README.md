@@ -39,6 +39,7 @@
 - **IDEs:** Android Studio, WebStorm, VS Code, IntelliJ IDEA, PyCharm
 - **UI/UX:** Figma
 - **3D Modeling & CAD:** LibreCAD, SketchUp, Blender
+- **Animation and Video editing** After Effects, Davinci Resolve
 
 ![My Skills](https://skillicons.dev/icons?i=cloudflare,aftereffects,photoshop,figma,androidstudio,arduino,sketchup,idea,clion,webstorm,vscode,blender,&perline=40)
 
